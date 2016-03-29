@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<animations>
+  <animation tag="main_Walk">
+    <frame X="0" Y="0" Rotation ="0" Time ="80"/>
+    <frame X="-14" Y="-9" Rotation ="-0.28" Time ="80"/>
+    <frame X="-9" Y="-29" Rotation ="-0.06" Time ="80"/>
+    <frame X="3" Y="-25" Rotation ="0.12" Time ="80"/>
+    <frame X="15" Y="-11" Rotation ="0.24" Time ="80"/>
+    <frame X="5" Y="7" Rotation ="0.08" Time ="80"/>
+    <frame X="1" Y="1" Rotation ="-0.08" Time ="80"/>
+  </animation>
+  <animation tag="chicken_Walk">
+    <frame X="0" Y="0" Rotation ="0" Time ="120"/>
+    <frame X="-18" Y="-8" Rotation ="-0.38" Time ="140"/>
+    <frame X="13" Y="-16" Rotation ="0.18" Time ="120"/>
+    <frame X="18" Y="7" Rotation ="0.2" Time ="120"/>
+    <frame X="0" Y="0" Rotation ="0" Time ="120"/>
+  </animation>
+  <animation tag="chicken_Idle">
+    <frame X="0" Y="0" Rotation ="0" Time ="80"/>
+    <frame X="32" Y="-18" Rotation ="0.6" Time ="80"/>
+    <frame X="65" Y="11" Rotation ="1.159999" Time ="80"/>
+    <frame X="12" Y="-8" Rotation ="0.16" Time ="80"/>
+    <frame X="2" Y="-1" Rotation ="-0.05999997" Time ="80"/>
+    <frame X="2" Y="-1" Rotation ="-0.05999997" Time ="80"/>
+    <frame X="40" Y="-10" Rotation ="0.8399998" Time ="80"/>
+    <frame X="51" Y="12" Rotation ="1.1" Time ="80"/>
+    <frame X="24" Y="-16" Rotation ="0.4600001" Time ="80"/>
+    <frame X="0" Y="0" Rotation ="0" Time ="80"/>
+  </animation>
+  <animation tag="knight_Walk">
+    <frame X="0" Y="0" Rotation ="0" Time ="164"/>
+    <frame X="-38" Y="-29" Rotation ="0.26" Time ="164"/>
+    <frame X="-18" Y="-110" Rotation ="0.4400001" Time ="164"/>
+    <frame X="-8" Y="-73" Rotation ="-0.08000003" Time ="164"/>
+    <frame X="10" Y="0" Rotation ="0.05999997" Time ="120"/>
+    <frame X="0" Y="0" Rotation ="0" Time ="120"/>
+  </animation>
+  <animation tag="knight_Idle">
+    <frame X="0" Y="0" Rotation ="0" Time ="80"/>
+    <frame X="6" Y="-16" Rotation ="0.06" Time ="180"/>
+    <frame X="10" Y="0" Rotation ="-0.04" Time ="200"/>
+  </animation>
+  <animation tag ="monk_Walk">
+    <frame X="0" Y="0" Rotation ="0" Time ="120"/>
+    <frame X="24" Y="19" Rotation ="0.18" Time ="120"/>
+    <frame X="32" Y="-38" Rotation ="0.08" Time ="120"/>
+    <frame X="12" Y="-16" Rotation ="-0.2" Time ="120"/>
+    <frame X="0" Y="0" Rotation ="0" Time ="120"/>
+  </animation>
+  <animation tag="monk_Idle">
+    <frame X="0" Y="0" Rotation ="0" Time ="80"/>
+    <frame X="1" Y="-10" Rotation ="-0.12" Time ="40"/>
+    <frame X="13" Y="-10" Rotation ="0.09999999" Time ="40"/>
+    <frame X="6" Y="-28" Rotation ="0" Time ="100"/>
+    <frame X="6" Y="0" Rotation ="0" Time ="100"/>
+  </animation>
+</animations>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TileTypes>
+<TileType tag="forest" randomized="true">
+  <Sprite tag="Tree1" X="0" Y="214" Width="180" Height="338"/>
+  <Sprite tag="Tree2" X="201" Y="219" Width="88" Height="338"/>
+  <Sprite tag="Tree3" X="294" Y="217" Width="95" Height="150"/>
+  <Sprite tag="Tree4" X="398" Y="220" Width="64" Height="148"/>
+  <Prop  X="113" Y="22" Rotation ="0" Scale ="0.262144,0.262144" Flat ="false" Tag ="Tree1"/>
+  <Prop  X="165" Y="8" Rotation ="0" Scale ="0.4096,0.4096" Flat ="false" Tag ="Tree2"/>
+  <Prop  X="96" Y="107" Rotation ="0" Scale ="0.5898241,0.5898241" Flat ="false" Tag ="Tree3"/>
+  <Prop  X="128" Y="53" Rotation ="0" Scale ="0.32768,0.32768" Flat ="false" Tag ="Tree1"/>
+  <Prop  X="163" Y="88" Rotation ="0" Scale ="0.32768,0.32768" Flat ="false" Tag ="Tree1"/>
+</TileType>
+  <TileType tag="castle" randomized="true">
+    <Sprite tag="Tree1" X="0" Y="214" Width="180" Height="338"/>
+    <Sprite tag="Tree2" X="201" Y="219" Width="88" Height="338"/>
+    <Sprite tag="Tree3" X="294" Y="217" Width="95" Height="150"/>
+    <Sprite tag="Castle" X="475" Y="214" Width="286" Height="294"/>
+    <Sprite tag="Ground" X="385" Y="5" Width="139" Height="91"/>
+    <Prop  X="59" Y="82" Rotation ="0.02" Scale ="1.44,1.44" Flat ="true" Tag ="Ground"/>
+    <Prop  X="82" Y="21" Rotation ="0" Scale ="0.512,0.512" Flat ="false" Tag ="Castle"/>
+    <Prop  X="98" Y="150" Rotation ="0" Scale ="0.1677722,0.1677722" Flat ="false" Tag ="Tree1"/>
+    <Prop  X="174" Y="139" Rotation ="0" Scale ="0.1546189,0.1546189" Flat ="false" Tag ="Tree2"/>
+    <Prop  X="123" Y="141" Rotation ="0" Scale ="0.1342178,0.1342178" Flat ="false" Tag ="Tree1"/>
+    <Prop  X="156" Y="164" Rotation ="0" Scale ="0.1677722,0.1677722" Flat ="false" Tag ="Tree1"/>
+    <Prop  X="218" Y="135" Rotation ="0" Scale ="0.1677722,0.1677722" Flat ="false" Tag ="Tree1"/>
+    <Prop  X="50" Y="106" Rotation ="0" Scale ="0.2097152,0.2097152" Flat ="false" Tag ="Tree1"/>
+    <Prop  X="230" Y="88" Rotation ="0" Scale ="0.262144,0.262144" Flat ="false" Tag ="Tree3"/>
+  </TileType>
+</TileTypes>
